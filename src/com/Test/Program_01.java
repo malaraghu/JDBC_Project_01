@@ -1,5 +1,5 @@
 package com.Test;
-import java.util.*;
+import java.util.Scanner;
 public class Program_01 {
 
 	public static void main(String[] args) {
